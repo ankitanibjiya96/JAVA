@@ -14,6 +14,7 @@ static void ExceptionDemo()
 	int a = 10/0;
 	System.out.println("In exception4");
 	System.out.println("In exception5");
+	System.out.println("In exception6");
 }
 }
  
